@@ -1,0 +1,42 @@
+{
+    "name": "Test Your Bond",
+    "icons": [
+        {
+            "src": "/images/dare/bond.png",
+            "type": "image/png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "/images/dare/bond.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "/images/dare/bond.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "/images/dare/bond.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/images/icons/f14/icon-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "short_name": "Test Your Bond",
+    "theme_color": "",
+    "background_color": "",
+
+    "display": "standalone",
+    "orientation": "portrait",
+
+    "start_url": "/?utm_source=launcher",
+    "url": "/",
+    "manifestUrl": "/manifest.json",
+    "lang": "",
+    "screenshots": []
+}
